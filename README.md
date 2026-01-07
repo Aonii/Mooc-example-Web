@@ -1,3 +1,16 @@
+# Portfolio Code Samples
+
+This public repository contains selected, non-sensitive code samples
+from larger team projects.
+
+## Highlights
+- Drag-and-drop session reordering with backend persistence
+- Secure media upload APIs with Multer
+- Database schema design and performance optimisation
+
+## Tech Stack
+React, TypeScript, Node.js, MySQL
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
